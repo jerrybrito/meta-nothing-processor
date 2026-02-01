@@ -1,0 +1,1 @@
+obsolete-void>=5.2.0
